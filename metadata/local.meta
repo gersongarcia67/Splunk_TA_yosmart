@@ -1,0 +1,30 @@
+[inputs/secure_gateway_modular_input%3A%2F%2Fmysplunk]
+owner = admin
+version = 9.1.2
+modtime = 1704231000.324171000
+
+[savedsearches/Create%20yosmart_devices.csv]
+export = none
+owner = admin
+version = 9.1.2
+modtime = 1704490591.255246000
+
+[views/yosmart_dashboard]
+owner = admin
+version = 9.1.2
+modtime = 1704490566.356049000
+
+[nav/default]
+version = 9.1.2
+modtime = 1704408601.806171000
+
+[savedsearches/YoSmart%20THSensor]
+export = none
+owner = admin
+version = 9.1.2
+modtime = 1704489221.283397000
+
+[indexes/yosmart]
+owner = admin
+version = 9.1.2
+modtime = 1704489336.375460000
